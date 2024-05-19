@@ -1,1 +1,10 @@
-
+CRI华语环球,https://sk.cri.cn/hyhq.m3u8
+环球资讯广播,https://sk.cri.cn/905.m3u8
+CRI世界华声,https://sk.cri.cn/hxfh.m3u8
+CRI EZFM 轻松调频,https://sk.cri.cn/915.m3u8
+HITFM 劲曲调频,https://sk.cri.cn/887.m3u8
+南海之声,https://sk.cri.cn/nhzs.m3u8#https://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
+KBS WORLD RADIO 韩国国际广播电台（晚间播送有较大延迟）,https://api.xmgspace.me/api/kbs-stream/#http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8
+NHK World-Japan 日本国际广播电台（节目收听质量和有效与否随缘）,https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8#https://nhkwlive-radio.akamaized.net/hls/live/2032381/radio-rs1/index_03.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8#https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8#
+https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003467-b/rj-6ch/index_06.m3u8#http://shoutcast.wrn.org:8025/nhk41left#http://streaming.edmradio.online:8025/nhk41right
+NHK World-Japan 日本国际广播电台(仅中文和英文新闻节目，源1为中文，源2为英文),https://api.xmgspace.me/api/nhk-latest-news/#https://api.xmgspace.me/api/nhk-latest-news-english/
